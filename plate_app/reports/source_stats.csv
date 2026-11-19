@@ -1,0 +1,3 @@
+﻿source,accepted_images,dropped_unreadable,dropped_missing_label,dropped_empty_label,dropped_invalid_format,avg_boxes_per_image,median_box_wh_ratio,pct_box_wh_under_2
+kaggle,498,0,0,0,0,1.566,1.305,80.51
+roboflow,8254,0,0,0,0,1.023,2.429,44.04

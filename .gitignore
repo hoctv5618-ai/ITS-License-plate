@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pt
+*.pth
+data/
+runs/
+weights/
+.venv/
+venv/

@@ -1,0 +1,3 @@
+﻿model_file,train_imgsz,precision,recall,map50,map50_95,recall_u30,recall_30_60,recall_o60,speed_ms
+best_n640.pt,640,0.9967,0.9846,0.9938,0.734,96.03,99.69,100.0,3.55
+best_n640_quick.pt,640,0.981,0.9628,0.98,0.6855,93.25,98.13,100.0,3.39
