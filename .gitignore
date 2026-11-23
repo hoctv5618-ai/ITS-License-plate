@@ -1,8 +1,29 @@
-﻿__pycache__/
-*.pt
-*.pth
-data/
-runs/
-weights/
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & IDE
 .venv/
 venv/
+env/
+.vscode/
+.idea/
+
+# Large model weights & training runs (keep only best_n640.pt for app demo)
+*.pt
+*.pth
+!plate_app/models/best_n640.pt
+runs/
+plate_app/runs/
+weights/
+
+# Large raw/processed datasets & runtime DB/results (keep label metadata)
+ITS/
+plate_app/data/*
+!plate_app/data/ocr_labels.csv
+!plate_app/data/data.yaml
+
+# Temporary upload staging folder & logs
+github_sync_upload/
+*.log

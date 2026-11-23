@@ -1,0 +1,15 @@
+# Thu vien cot loi cho du an Nhan dien Bien so Xe trong ITS (Python 3.11)
+# Neu dung GPU NVIDIA CUDA, cai PyTorch ban CUDA truoc:
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+
+ultralytics==8.4.193
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+opencv-python==4.13.0.92
+easyocr==1.7.2
+streamlit==1.66.1
+numpy==2.4.4
+pillow==12.2.0
+imagehash==4.3.2
+pandas==3.1.0
+matplotlib==3.10.8
