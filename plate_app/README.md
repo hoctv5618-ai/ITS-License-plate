@@ -278,4 +278,5 @@ python tools/clear_history.py
   - Ô tô 5 số (`30A-123.45`), Ô tô 4 số cũ (`29A-1234`).
   - Xe máy 2 dòng 5 số (`59-X1 123.45`, `43-AA 567.89`), Xe máy 2 dòng 4 số cũ (`29-L1 1234`).
 - **Hạn chế:** Các loại biển 4 số có 2 chữ cái, biển quân đội, biển ngoại giao và biển công vụ (ví dụ `43-346-CV-03`) hiện **chưa được hỗ trợ** (hệ thống vẫn đọc và hiển thị chuỗi ký tự thô nhưng sẽ đánh dấu trạng thái là `Không hợp lệ`).
-- Xem thêm phân tích thuật toán chi tiết tại [`docs/GIAI_THICH.md`](docs/GIAI_THICH.md) và báo cáo tổng hợp dự án tại [`docs/BAO_CAO_DU_AN.md`](docs/BAO_CAO_DU_AN.md).
+- Xem thêm phân tích thuật toán chi tiết tại [`../docs/GIAI_THICH.md`](../docs/GIAI_THICH.md) và báo cáo tổng hợp dự án tại [`../docs/BAO_CAO_DU_AN.md`](../docs/BAO_CAO_DU_AN.md).
+- Xem bảng theo dõi tiến độ WBS từng tuần và phân công thành viên tại [`TIEN_DO_WBS.md`](TIEN_DO_WBS.md).
