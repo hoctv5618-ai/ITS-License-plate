@@ -1,0 +1,8 @@
+﻿config,count,exact_match_pct,cer_pct,valid_marked_pct,false_valid_pct,false_valid_among_valid_pct
+a_khong_validate,83,25.3,29.79,15.66,6.02,38.46
+b_validate_max_fixed_1,83,38.55,26.99,61.45,25.3,41.18
+c_validate_hien_tai,83,38.55,27.29,65.06,27.71,42.59
+d1_tat_watermark_tiktok,83,38.55,27.29,65.06,27.71,42.59
+d2_tat_dao_dong,83,39.76,27.14,66.27,27.71,41.82
+d3_tat_cat_vien_sau_xx,83,36.14,27.58,62.65,27.71,44.23
+d4_tat_anh_xa_q_u_j_l_t,83,38.55,27.29,63.86,26.51,41.51

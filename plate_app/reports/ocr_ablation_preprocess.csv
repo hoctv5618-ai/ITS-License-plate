@@ -1,0 +1,6 @@
+﻿config,count,exact_match_pct,cer_pct,valid_marked_pct,false_valid_pct,false_valid_among_valid_pct
+p0_hien_tai_bat_het,83,38.55,27.29,65.06,27.71,42.59
+p1_tat_straighten_hough,83,33.73,28.17,54.22,21.69,40.0
+p2_tat_trim_edge_4_5pct,83,36.14,28.17,67.47,32.53,48.21
+p3_tat_two_halves,83,38.55,27.88,63.86,26.51,41.51
+p4_tat_ca_3_cong_tac,83,28.92,32.74,54.22,26.51,48.89

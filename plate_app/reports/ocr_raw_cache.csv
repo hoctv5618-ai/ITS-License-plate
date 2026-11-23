@@ -1,0 +1,250 @@
+﻿file,subset,source,hb,preprocess,raw_txt,gt_text,gt_s,ms
+ocr_006_kaggle_square_211px.jpg,dev,kaggle,>60px,raw,64.FI 069.82,64-F1 069.82,64F106982,613.59
+ocr_010_kaggle_square_345px.jpg,dev,kaggle,>60px,raw,4376,51-U6 4376,51U64376,74.11
+ocr_011_kaggle_square_159px.jpg,dev,kaggle,>60px,raw,73-D1 29315,73-D1 293.15,73D129315,51.18
+ocr_013_kaggle_square_305px.jpg,dev,kaggle,>60px,raw,59.53 01178,59-S3 011.78,59S301178,55.34
+ocr_014_kaggle_square_261px.jpg,dev,kaggle,>60px,raw,72-X2 8627,72-X2 8627,72X28627,47.33
+ocr_015_kaggle_square_328px.jpg,dev,kaggle,>60px,raw,50-N1 412.73,50-N1 417.73,50N141773,54.52
+ocr_016_kaggle_square_197px.jpg,dev,kaggle,>60px,raw,77-C1 117.40,77-C1 117.40,77C111740,42.98
+ocr_017_kaggle_square_400px.jpg,dev,kaggle,>60px,raw,59.22 074.13,59-Z2 074.13,59Z207413,72.34
+ocr_019_kaggle_square_357px.jpg,dev,kaggle,>60px,raw,593K1 093234,59-K1 937.34,59K193734,58.58
+ocr_020_kaggle_square_647px.jpg,dev,kaggle,>60px,raw,59.K1 4 932.3,59-K1 937.34,59K193734,155.3
+ocr_021_kaggle_square_321px.jpg,dev,kaggle,>60px,raw,49 019-BD,49 019-BD,49019BD,54.49
+ocr_022_kaggle_square_221px.jpg,dev,kaggle,>60px,raw,77-C1 11240,77-C1 117.40,77C111740,54.14
+ocr_026_kaggle_long_36px.jpg,dev,kaggle,30-60px,raw,E69A.060.84,69A-060.84,69A06084,55.21
+ocr_027_kaggle_long_36px.jpg,dev,kaggle,30-60px,raw,6460109,51A-601.09,51A60109,24.11
+ocr_029_kaggle_long_142px.jpg,dev,kaggle,>60px,raw,616.799.84,51G-799.84,51G79984,52.95
+ocr_030_kaggle_long_177px.jpg,dev,kaggle,>60px,raw,68A-087.49,68A-087.49,68A08749,54.71
+ocr_034_kaggle_long_126px.jpg,dev,kaggle,>60px,raw,,51A-950.28,51A95028,46.67
+ocr_035_kaggle_long_84px.jpg,dev,kaggle,>60px,raw,E2.2436,52P-2436,52P2436,50.48
+ocr_037_kaggle_long_112px.jpg,dev,kaggle,>60px,raw,6OA.556.55,60A-556.55,60A55655,42.88
+ocr_039_kaggle_long_174px.jpg,dev,kaggle,>60px,raw,56N5162,56N-5162,56N5162,45.68
+ocr_042_kaggle_long_121px.jpg,dev,kaggle,>60px,raw,51F-205.37,51F-205.37,51F20537,44.2
+ocr_043_kaggle_long_222px.jpg,dev,kaggle,>60px,raw,614235.09,51A-235.09,51A23509,52.66
+ocr_044_kaggle_long_206px.jpg,dev,kaggle,>60px,raw,56N5162,56N-5162,56N5162,46.51
+ocr_045_kaggle_long_211px.jpg,dev,kaggle,>60px,raw,6132176,51H-321.16,51H32116,45.94
+ocr_046_kaggle_long_159px.jpg,dev,kaggle,>60px,raw,51H-040.73,51H-040.73,51H04073,42.43
+ocr_047_kaggle_long_159px.jpg,dev,kaggle,>60px,raw,,51F-708.04,51F70804,40.95
+ocr_048_kaggle_long_187px.jpg,dev,kaggle,>60px,raw,56N.5162,56N-5162,56N5162,43.48
+ocr_050_roboflow_square_27px.jpg,dev,roboflow,<30px,raw,W,59-N1 000.18,59N100018,28.91
+ocr_053_roboflow_square_29px.jpg,dev,roboflow,<30px,raw,,59-E1 296.60,59E129660,30.4
+ocr_054_roboflow_square_29px.jpg,dev,roboflow,<30px,raw,,59-Y1 925.33,59Y192533,3.71
+ocr_055_roboflow_square_28px.jpg,dev,roboflow,<30px,raw,,59-D1 019.78,59D101978,9.71
+ocr_057_roboflow_square_27px.jpg,dev,roboflow,<30px,raw,,51F-893.57,51F89357,3.73
+ocr_067_roboflow_square_25px.jpg,dev,roboflow,<30px,raw,,69-AB 026.73,69AB02673,15.05
+ocr_069_roboflow_square_27px.jpg,dev,roboflow,<30px,raw,,59-T1 661.53,59T166153,16.65
+ocr_070_roboflow_square_38px.jpg,dev,roboflow,30-60px,raw,T-53-3,KT-53-31,KT5331,33.37
+ocr_071_roboflow_square_58px.jpg,dev,roboflow,30-60px,raw,GOA.35981,60A-359.81,60A35981,16.78
+ocr_072_roboflow_square_50px.jpg,dev,roboflow,30-60px,raw,,TM-27-26,TM2726,40.6
+ocr_073_roboflow_square_57px.jpg,dev,roboflow,30-60px,raw,11231,47-D1 172.37,47D117237,15.47
+ocr_077_roboflow_square_46px.jpg,dev,roboflow,30-60px,raw,,51A-853.25,51A85325,19.28
+ocr_078_roboflow_square_56px.jpg,dev,roboflow,30-60px,raw,,51F-278.09,51F27809,38.18
+ocr_079_roboflow_square_44px.jpg,dev,roboflow,30-60px,raw,20506,59-T1 385.06,59T138506,11.19
+ocr_082_roboflow_square_57px.jpg,dev,roboflow,30-60px,raw,614.853.25,51A-853.25,51A85325,17.8
+ocr_083_roboflow_square_51px.jpg,dev,roboflow,30-60px,raw,120.75,59-P1 128.75,59P112875,23.09
+ocr_084_roboflow_square_55px.jpg,dev,roboflow,30-60px,raw,F9-52 206.17,59-S2 206.17,59S220617,16.04
+ocr_085_roboflow_square_42px.jpg,dev,roboflow,30-60px,raw,931,60-B1 931.13,60B193113,9.76
+ocr_086_roboflow_square_37px.jpg,dev,roboflow,30-60px,raw,P0-A1 55132,70-B1 551.32,70B155132,15.88
+ocr_088_roboflow_square_52px.jpg,dev,roboflow,30-60px,raw,,50LD-044.11,50LD04411,30.38
+ocr_090_roboflow_square_79px.jpg,dev,roboflow,>60px,raw,59.T1 31340,59-T1 313.40,59T131340,41.02
+ocr_092_roboflow_square_68px.jpg,dev,roboflow,>60px,raw,616.472.81,51G-472.81,51G47281,32.48
+ocr_093_roboflow_square_66px.jpg,dev,roboflow,>60px,raw,,56N-7186,56N7186,12.87
+ocr_095_roboflow_square_64px.jpg,dev,roboflow,>60px,raw,,51F-155.85,51F15585,12.45
+ocr_098_roboflow_square_82px.jpg,dev,roboflow,>60px,raw,59-F1 201.581,59-F1 201.58,59F120158,17.71
+ocr_099_roboflow_square_83px.jpg,dev,roboflow,>60px,raw,29151798,29A-517.96,29A51796,12.48
+ocr_101_roboflow_square_72px.jpg,dev,roboflow,>60px,raw,,71-B1 580.70,71B158070,39.62
+ocr_103_roboflow_square_61px.jpg,dev,roboflow,>60px,raw,,51G-316.91,51G31691,13.65
+ocr_104_roboflow_square_94px.jpg,dev,roboflow,>60px,raw,65-P5 5051,65-P5 5051,65P55051,40.73
+ocr_105_roboflow_square_69px.jpg,dev,roboflow,>60px,raw,47-K1 092.19,47-K1 082.79,47K108279,16.39
+ocr_106_roboflow_square_212px.jpg,dev,roboflow,>60px,raw,65.P7 3835,65-P7 3835,65P73835,34.4
+ocr_107_roboflow_square_61px.jpg,dev,roboflow,>60px,raw,616-10209,51G-102.09,51G10209,14.78
+ocr_111_roboflow_long_25px.jpg,dev,roboflow,<30px,raw,616.316917,51G-316.91,51G31691,11.25
+ocr_112_roboflow_long_21px.jpg,dev,roboflow,<30px,raw,51651332,51G-513.32,51G51332,40.77
+ocr_113_roboflow_long_17px.jpg,dev,roboflow,<30px,raw,,51F-747.76,51F74776,3.86
+ocr_115_roboflow_long_20px.jpg,dev,roboflow,<30px,raw,61244.03,51F-244.03,51F24403,11.21
+ocr_120_roboflow_long_27px.jpg,dev,roboflow,<30px,raw,61F.065.32,51F-065.32,51F06532,14.65
+ocr_121_roboflow_long_28px.jpg,dev,roboflow,<30px,raw,BHI-53-30,BH-53-30,BH5330,14.23
+ocr_122_roboflow_long_27px.jpg,dev,roboflow,<30px,raw,6F-63034,51F-630.34,51F63034,10.93
+ocr_125_roboflow_long_22px.jpg,dev,roboflow,<30px,raw,,51F-079.73,51F07973,19.36
+ocr_126_roboflow_long_23px.jpg,dev,roboflow,<30px,raw,6477529,51A-775.29,51A77529,11.99
+ocr_129_roboflow_long_22px.jpg,dev,roboflow,<30px,raw,6F-598.81,51F-598.81,51F59881,11.79
+ocr_130_roboflow_long_37px.jpg,dev,roboflow,30-60px,raw,,51F-795.12,51F79512,13.24
+ocr_131_roboflow_long_42px.jpg,dev,roboflow,30-60px,raw,61F-590.01,51F-590.11,51F59011,11.98
+ocr_133_roboflow_long_43px.jpg,dev,roboflow,30-60px,raw,,51F-598.81,51F59881,17.72
+ocr_135_roboflow_long_58px.jpg,dev,roboflow,30-60px,raw,61621748,51G-217.48,51G21748,11.06
+ocr_136_roboflow_long_45px.jpg,dev,roboflow,30-60px,raw,,51A-721.10,51A72110,41.0
+ocr_137_roboflow_long_45px.jpg,dev,roboflow,30-60px,raw,616.51008,51G-510.08,51G51008,11.92
+ocr_139_roboflow_long_31px.jpg,dev,roboflow,30-60px,raw,6IE324.88,51F-324.88,51F32488,12.63
+ocr_140_roboflow_long_34px.jpg,dev,roboflow,30-60px,raw,610.31691,51G-316.91,51G31691,12.48
+ocr_141_roboflow_long_56px.jpg,dev,roboflow,30-60px,raw,79512,51F-795.12,51F79512,17.04
+ocr_145_roboflow_long_47px.jpg,dev,roboflow,30-60px,raw,59881,51F-598.81,51F59881,31.16
+ocr_146_roboflow_long_42px.jpg,dev,roboflow,30-60px,raw,614395.34,61A-395.34,61A39534,11.57
+ocr_148_roboflow_long_41px.jpg,dev,roboflow,30-60px,raw,6F-882.70,51F-882.70,51F88270,12.06
+ocr_149_roboflow_long_42px.jpg,dev,roboflow,30-60px,raw,BOE.000.90,30E-000.90,30E00090,12.18
+ocr_150_roboflow_long_61px.jpg,dev,roboflow,>60px,raw,61A395.34,61A-395.34,61A39534,12.11
+ocr_006_kaggle_square_211px.jpg,dev,kaggle,>60px,clahe,64.FI 069.82,64-F1 069.82,64F106982,90.5
+ocr_010_kaggle_square_345px.jpg,dev,kaggle,>60px,clahe,S1W 4376,51-U6 4376,51U64376,57.59
+ocr_011_kaggle_square_159px.jpg,dev,kaggle,>60px,clahe,73-D1 293.157,73-D1 293.15,73D129315,28.33
+ocr_013_kaggle_square_305px.jpg,dev,kaggle,>60px,clahe,59.53 011.18,59-S3 011.78,59S301178,47.17
+ocr_014_kaggle_square_261px.jpg,dev,kaggle,>60px,clahe,72-X2 8627,72-X2 8627,72X28627,37.34
+ocr_015_kaggle_square_328px.jpg,dev,kaggle,>60px,clahe,50-NI 417.73,50-N1 417.73,50N141773,57.71
+ocr_016_kaggle_square_197px.jpg,dev,kaggle,>60px,clahe,77-C1 11240,77-C1 117.40,77C111740,32.96
+ocr_017_kaggle_square_400px.jpg,dev,kaggle,>60px,clahe,59.22 074.13,59-Z2 074.13,59Z207413,72.5
+ocr_019_kaggle_square_357px.jpg,dev,kaggle,>60px,clahe,593K1 932.34,59-K1 937.34,59K193734,130.15
+ocr_020_kaggle_square_647px.jpg,dev,kaggle,>60px,clahe,59K1 937.34,59-K1 937.34,59K193734,140.12
+ocr_021_kaggle_square_321px.jpg,dev,kaggle,>60px,clahe,49 019-BD,49 019-BD,49019BD,55.46
+ocr_022_kaggle_square_221px.jpg,dev,kaggle,>60px,clahe,77-C1 112.40,77-C1 117.40,77C111740,81.12
+ocr_026_kaggle_long_36px.jpg,dev,kaggle,30-60px,clahe,J69A.06084,69A-060.84,69A06084,42.32
+ocr_027_kaggle_long_36px.jpg,dev,kaggle,30-60px,clahe,,51A-601.09,51A60109,41.05
+ocr_029_kaggle_long_142px.jpg,dev,kaggle,>60px,clahe,516.799.84,51G-799.84,51G79984,43.39
+ocr_030_kaggle_long_177px.jpg,dev,kaggle,>60px,clahe,68A-087.49,68A-087.49,68A08749,40.93
+ocr_034_kaggle_long_126px.jpg,dev,kaggle,>60px,clahe,,51A-950.28,51A95028,40.65
+ocr_035_kaggle_long_84px.jpg,dev,kaggle,>60px,clahe,62.2436,52P-2436,52P2436,35.04
+ocr_037_kaggle_long_112px.jpg,dev,kaggle,>60px,clahe,60556.55,60A-556.55,60A55655,42.52
+ocr_039_kaggle_long_174px.jpg,dev,kaggle,>60px,clahe,S6N.5162,56N-5162,56N5162,44.99
+ocr_042_kaggle_long_121px.jpg,dev,kaggle,>60px,clahe,51F-205.37,51F-205.37,51F20537,27.71
+ocr_043_kaggle_long_222px.jpg,dev,kaggle,>60px,clahe,61423509,51A-235.09,51A23509,53.46
+ocr_044_kaggle_long_206px.jpg,dev,kaggle,>60px,clahe,56N.5162,56N-5162,56N5162,44.47
+ocr_045_kaggle_long_211px.jpg,dev,kaggle,>60px,clahe,,51H-321.16,51H32116,42.12
+ocr_046_kaggle_long_159px.jpg,dev,kaggle,>60px,clahe,51H-040.73,51H-040.73,51H04073,43.37
+ocr_047_kaggle_long_159px.jpg,dev,kaggle,>60px,clahe,51F.70804,51F-708.04,51F70804,42.25
+ocr_048_kaggle_long_187px.jpg,dev,kaggle,>60px,clahe,56N.5162,56N-5162,56N5162,39.55
+ocr_050_roboflow_square_27px.jpg,dev,roboflow,<30px,clahe,69MI,59-N1 000.18,59N100018,43.95
+ocr_053_roboflow_square_29px.jpg,dev,roboflow,<30px,clahe,59-E1 296.60,59-E1 296.60,59E129660,42.73
+ocr_054_roboflow_square_29px.jpg,dev,roboflow,<30px,clahe,,59-Y1 925.33,59Y192533,68.06
+ocr_055_roboflow_square_28px.jpg,dev,roboflow,<30px,clahe,59 01978,59-D1 019.78,59D101978,20.98
+ocr_057_roboflow_square_27px.jpg,dev,roboflow,<30px,clahe,85337,51F-893.57,51F89357,56.21
+ocr_067_roboflow_square_25px.jpg,dev,roboflow,<30px,clahe,69-48 07673,69-AB 026.73,69AB02673,37.2
+ocr_069_roboflow_square_27px.jpg,dev,roboflow,<30px,clahe,661653,59-T1 661.53,59T166153,80.87
+ocr_070_roboflow_square_38px.jpg,dev,roboflow,30-60px,clahe,,KT-53-31,KT5331,55.78
+ocr_071_roboflow_square_58px.jpg,dev,roboflow,30-60px,clahe,GOA359.81,60A-359.81,60A35981,16.58
+ocr_072_roboflow_square_50px.jpg,dev,roboflow,30-60px,clahe,I27228,TM-27-26,TM2726,29.52
+ocr_073_roboflow_square_57px.jpg,dev,roboflow,30-60px,clahe,747-01 11237,47-D1 172.37,47D117237,45.53
+ocr_077_roboflow_square_46px.jpg,dev,roboflow,30-60px,clahe,614.853.25,51A-853.25,51A85325,17.33
+ocr_078_roboflow_square_56px.jpg,dev,roboflow,30-60px,clahe,,51F-278.09,51F27809,52.91
+ocr_079_roboflow_square_44px.jpg,dev,roboflow,30-60px,clahe,59T1 30500,59-T1 385.06,59T138506,43.21
+ocr_082_roboflow_square_57px.jpg,dev,roboflow,30-60px,clahe,61A.853.25,51A-853.25,51A85325,17.08
+ocr_083_roboflow_square_51px.jpg,dev,roboflow,30-60px,clahe,59-P5 128.75,59-P1 128.75,59P112875,17.25
+ocr_084_roboflow_square_55px.jpg,dev,roboflow,30-60px,clahe,59-52 206.17,59-S2 206.17,59S220617,19.74
+ocr_085_roboflow_square_42px.jpg,dev,roboflow,30-60px,clahe,931.13,60-B1 931.13,60B193113,41.69
+ocr_086_roboflow_square_37px.jpg,dev,roboflow,30-60px,clahe,551.32,70-B1 551.32,70B155132,45.35
+ocr_088_roboflow_square_52px.jpg,dev,roboflow,30-60px,clahe,,50LD-044.11,50LD04411,42.86
+ocr_090_roboflow_square_79px.jpg,dev,roboflow,>60px,clahe,59.T1 31340,59-T1 313.40,59T131340,20.54
+ocr_092_roboflow_square_68px.jpg,dev,roboflow,>60px,clahe,616.-472.81,51G-472.81,51G47281,19.29
+ocr_093_roboflow_square_66px.jpg,dev,roboflow,>60px,clahe,6617486,56N-7186,56N7186,14.77
+ocr_095_roboflow_square_64px.jpg,dev,roboflow,>60px,clahe,61F.155.85,51F-155.85,51F15585,21.34
+ocr_098_roboflow_square_82px.jpg,dev,roboflow,>60px,clahe,59-F1 201.581,59-F1 201.58,59F120158,21.35
+ocr_099_roboflow_square_83px.jpg,dev,roboflow,>60px,clahe,,29A-517.96,29A51796,45.91
+ocr_101_roboflow_square_72px.jpg,dev,roboflow,>60px,clahe,B1 1580.70,71-B1 580.70,71B158070,17.91
+ocr_103_roboflow_square_61px.jpg,dev,roboflow,>60px,clahe,616316.91,51G-316.91,51G31691,16.43
+ocr_104_roboflow_square_94px.jpg,dev,roboflow,>60px,clahe,65-P5 5051,65-P5 5051,65P55051,20.97
+ocr_105_roboflow_square_69px.jpg,dev,roboflow,>60px,clahe,47-KT 002.19,47-K1 082.79,47K108279,19.39
+ocr_106_roboflow_square_212px.jpg,dev,roboflow,>60px,clahe,65-P7 3835,65-P7 3835,65P73835,36.12
+ocr_107_roboflow_square_61px.jpg,dev,roboflow,>60px,clahe,616-102.09,51G-102.09,51G10209,17.16
+ocr_111_roboflow_long_25px.jpg,dev,roboflow,<30px,clahe,516.31691,51G-316.91,51G31691,22.59
+ocr_112_roboflow_long_21px.jpg,dev,roboflow,<30px,clahe,51651332,51G-513.32,51G51332,24.23
+ocr_113_roboflow_long_17px.jpg,dev,roboflow,<30px,clahe,,51F-747.76,51F74776,26.66
+ocr_115_roboflow_long_20px.jpg,dev,roboflow,<30px,clahe,6F.224.03,51F-244.03,51F24403,34.92
+ocr_120_roboflow_long_27px.jpg,dev,roboflow,<30px,clahe,51F.065.32,51F-065.32,51F06532,43.94
+ocr_121_roboflow_long_28px.jpg,dev,roboflow,<30px,clahe,BH-53-30,BH-53-30,BH5330,18.49
+ocr_122_roboflow_long_27px.jpg,dev,roboflow,<30px,clahe,61F-630.30,51F-630.34,51F63034,21.32
+ocr_125_roboflow_long_22px.jpg,dev,roboflow,<30px,clahe,6F07973,51F-079.73,51F07973,20.17
+ocr_126_roboflow_long_23px.jpg,dev,roboflow,<30px,clahe,6AZ75.29,51A-775.29,51A77529,34.89
+ocr_129_roboflow_long_22px.jpg,dev,roboflow,<30px,clahe,6124598.81,51F-598.81,51F59881,21.97
+ocr_130_roboflow_long_37px.jpg,dev,roboflow,30-60px,clahe,G1F.795.12,51F-795.12,51F79512,20.37
+ocr_131_roboflow_long_42px.jpg,dev,roboflow,30-60px,clahe,51F-590.11,51F-590.11,51F59011,20.57
+ocr_133_roboflow_long_43px.jpg,dev,roboflow,30-60px,clahe,S1F.59881,51F-598.81,51F59881,17.11
+ocr_135_roboflow_long_58px.jpg,dev,roboflow,30-60px,clahe,61621748,51G-217.48,51G21748,17.95
+ocr_136_roboflow_long_45px.jpg,dev,roboflow,30-60px,clahe,611A.72110,51A-721.10,51A72110,20.38
+ocr_137_roboflow_long_45px.jpg,dev,roboflow,30-60px,clahe,516510.08,51G-510.08,51G51008,18.93
+ocr_139_roboflow_long_31px.jpg,dev,roboflow,30-60px,clahe,,51F-324.88,51F32488,22.98
+ocr_140_roboflow_long_34px.jpg,dev,roboflow,30-60px,clahe,,51G-316.91,51G31691,19.57
+ocr_141_roboflow_long_56px.jpg,dev,roboflow,30-60px,clahe,51F.795.12,51F-795.12,51F79512,16.5
+ocr_145_roboflow_long_47px.jpg,dev,roboflow,30-60px,clahe,51F.598.81,51F-598.81,51F59881,18.28
+ocr_146_roboflow_long_42px.jpg,dev,roboflow,30-60px,clahe,61A395.34,61A-395.34,61A39534,19.19
+ocr_148_roboflow_long_41px.jpg,dev,roboflow,30-60px,clahe,,51F-882.70,51F88270,19.32
+ocr_149_roboflow_long_42px.jpg,dev,roboflow,30-60px,clahe,30E.000.90,30E-000.90,30E00090,19.25
+ocr_150_roboflow_long_61px.jpg,dev,roboflow,>60px,clahe,61A395.34,61A-395.34,61A39534,16.89
+ocr_006_kaggle_square_211px.jpg,dev,kaggle,>60px,threshold,64.FI 069.82,64-F1 069.82,64F106982,32.18
+ocr_010_kaggle_square_345px.jpg,dev,kaggle,>60px,threshold,S1-UB 4376 X,51-U6 4376,51U64376,139.94
+ocr_011_kaggle_square_159px.jpg,dev,kaggle,>60px,threshold,73-D1 29315,73-D1 293.15,73D129315,29.0
+ocr_013_kaggle_square_305px.jpg,dev,kaggle,>60px,threshold,59.S3 01178,59-S3 011.78,59S301178,49.43
+ocr_014_kaggle_square_261px.jpg,dev,kaggle,>60px,threshold,72-X2 8627,72-X2 8627,72X28627,37.03
+ocr_015_kaggle_square_328px.jpg,dev,kaggle,>60px,threshold,50-N1 411.73,50-N1 417.73,50N141773,56.31
+ocr_016_kaggle_square_197px.jpg,dev,kaggle,>60px,threshold,77-C1,77-C1 117.40,77C111740,73.2
+ocr_017_kaggle_square_400px.jpg,dev,kaggle,>60px,threshold,5922 074.13,59-Z2 074.13,59Z207413,73.91
+ocr_019_kaggle_square_357px.jpg,dev,kaggle,>60px,threshold,595K1 937.34,59-K1 937.34,59K193734,132.26
+ocr_020_kaggle_square_647px.jpg,dev,kaggle,>60px,threshold,59.K1 937.34,59-K1 937.34,59K193734,144.75
+ocr_021_kaggle_square_321px.jpg,dev,kaggle,>60px,threshold,49 019-BD,49 019-BD,49019BD,53.41
+ocr_022_kaggle_square_221px.jpg,dev,kaggle,>60px,threshold,77-C1 111.40,77-C1 117.40,77C111740,76.53
+ocr_026_kaggle_long_36px.jpg,dev,kaggle,30-60px,threshold,694-060.84,69A-060.84,69A06084,19.97
+ocr_027_kaggle_long_36px.jpg,dev,kaggle,30-60px,threshold,514601.09,51A-601.09,51A60109,18.06
+ocr_029_kaggle_long_142px.jpg,dev,kaggle,>60px,threshold,61679984,51G-799.84,51G79984,31.9
+ocr_030_kaggle_long_177px.jpg,dev,kaggle,>60px,threshold,68A.082.49,68A-087.49,68A08749,40.54
+ocr_034_kaggle_long_126px.jpg,dev,kaggle,>60px,threshold,6614.950.28,51A-950.28,51A95028,22.39
+ocr_035_kaggle_long_84px.jpg,dev,kaggle,>60px,threshold,62.2436,52P-2436,52P2436,21.0
+ocr_037_kaggle_long_112px.jpg,dev,kaggle,>60px,threshold,6OA.55655,60A-556.55,60A55655,25.92
+ocr_039_kaggle_long_174px.jpg,dev,kaggle,>60px,threshold,56N-5162,56N-5162,56N5162,38.85
+ocr_042_kaggle_long_121px.jpg,dev,kaggle,>60px,threshold,61F.205.37,51F-205.37,51F20537,26.94
+ocr_043_kaggle_long_222px.jpg,dev,kaggle,>60px,threshold,6T423509,51A-235.09,51A23509,50.67
+ocr_044_kaggle_long_206px.jpg,dev,kaggle,>60px,threshold,56.5162,56N-5162,56N5162,44.55
+ocr_045_kaggle_long_211px.jpg,dev,kaggle,>60px,threshold,5132176,51H-321.16,51H32116,42.72
+ocr_046_kaggle_long_159px.jpg,dev,kaggle,>60px,threshold,51H-040.73,51H-040.73,51H04073,38.13
+ocr_047_kaggle_long_159px.jpg,dev,kaggle,>60px,threshold,,51F-708.04,51F70804,35.51
+ocr_048_kaggle_long_187px.jpg,dev,kaggle,>60px,threshold,,56N-5162,56N5162,39.21
+ocr_050_roboflow_square_27px.jpg,dev,roboflow,<30px,threshold,S9MF,59-N1 000.18,59N100018,37.34
+ocr_053_roboflow_square_29px.jpg,dev,roboflow,<30px,threshold,39-E1 296.60,59-E1 296.60,59E129660,24.24
+ocr_054_roboflow_square_29px.jpg,dev,roboflow,<30px,threshold,59-K1,59-Y1 925.33,59Y192533,31.66
+ocr_055_roboflow_square_28px.jpg,dev,roboflow,<30px,threshold,01978,59-D1 019.78,59D101978,57.39
+ocr_057_roboflow_square_27px.jpg,dev,roboflow,<30px,threshold,,51F-893.57,51F89357,16.5
+ocr_067_roboflow_square_25px.jpg,dev,roboflow,<30px,threshold,69-48 07673,69-AB 026.73,69AB02673,26.72
+ocr_069_roboflow_square_27px.jpg,dev,roboflow,<30px,threshold,591 66153,59-T1 661.53,59T166153,28.05
+ocr_070_roboflow_square_38px.jpg,dev,roboflow,30-60px,threshold,ITSA,KT-53-31,KT5331,56.44
+ocr_071_roboflow_square_58px.jpg,dev,roboflow,30-60px,threshold,,60A-359.81,60A35981,44.81
+ocr_072_roboflow_square_50px.jpg,dev,roboflow,30-60px,threshold,0228,TM-27-26,TM2726,35.3
+ocr_073_roboflow_square_57px.jpg,dev,roboflow,30-60px,threshold,47.01,47-D1 172.37,47D117237,45.76
+ocr_077_roboflow_square_46px.jpg,dev,roboflow,30-60px,threshold,,51A-853.25,51A85325,35.0
+ocr_078_roboflow_square_56px.jpg,dev,roboflow,30-60px,threshold,1F2209,51F-278.09,51F27809,62.02
+ocr_079_roboflow_square_44px.jpg,dev,roboflow,30-60px,threshold,J0505,59-T1 385.06,59T138506,41.63
+ocr_082_roboflow_square_57px.jpg,dev,roboflow,30-60px,threshold,,51A-853.25,51A85325,61.06
+ocr_083_roboflow_square_51px.jpg,dev,roboflow,30-60px,threshold,59,59-P1 128.75,59P112875,42.26
+ocr_084_roboflow_square_55px.jpg,dev,roboflow,30-60px,threshold,59.S2 20617,59-S2 206.17,59S220617,19.76
+ocr_085_roboflow_square_42px.jpg,dev,roboflow,30-60px,threshold,60 93113,60-B1 931.13,60B193113,40.74
+ocr_086_roboflow_square_37px.jpg,dev,roboflow,30-60px,threshold,55132,70-B1 551.32,70B155132,28.91
+ocr_088_roboflow_square_52px.jpg,dev,roboflow,30-60px,threshold,,50LD-044.11,50LD04411,33.88
+ocr_090_roboflow_square_79px.jpg,dev,roboflow,>60px,threshold,59 J1J40,59-T1 313.40,59T131340,42.13
+ocr_092_roboflow_square_68px.jpg,dev,roboflow,>60px,threshold,61.4728,51G-472.81,51G47281,74.26
+ocr_093_roboflow_square_66px.jpg,dev,roboflow,>60px,threshold,6687186,56N-7186,56N7186,14.84
+ocr_095_roboflow_square_64px.jpg,dev,roboflow,>60px,threshold,G1F1558,51F-155.85,51F15585,16.01
+ocr_098_roboflow_square_82px.jpg,dev,roboflow,>60px,threshold,59F1 20158,59-F1 201.58,59F120158,26.08
+ocr_099_roboflow_square_83px.jpg,dev,roboflow,>60px,threshold,96,29A-517.96,29A51796,48.78
+ocr_101_roboflow_square_72px.jpg,dev,roboflow,>60px,threshold,,71-B1 580.70,71B158070,21.57
+ocr_103_roboflow_square_61px.jpg,dev,roboflow,>60px,threshold,616.316.9,51G-316.91,51G31691,47.7
+ocr_104_roboflow_square_94px.jpg,dev,roboflow,>60px,threshold,P5 J0511,65-P5 5051,65P55051,40.81
+ocr_105_roboflow_square_69px.jpg,dev,roboflow,>60px,threshold,47.K1 092.79,47-K1 082.79,47K108279,18.99
+ocr_106_roboflow_square_212px.jpg,dev,roboflow,>60px,threshold,65.PI 3835,65-P7 3835,65P73835,36.13
+ocr_107_roboflow_square_61px.jpg,dev,roboflow,>60px,threshold,516.10209 ULUJ,51G-102.09,51G10209,54.09
+ocr_111_roboflow_long_25px.jpg,dev,roboflow,<30px,threshold,516.316.97,51G-316.91,51G31691,21.33
+ocr_112_roboflow_long_21px.jpg,dev,roboflow,<30px,threshold,516.51332,51G-513.32,51G51332,31.15
+ocr_113_roboflow_long_17px.jpg,dev,roboflow,<30px,threshold,5107870,51F-747.76,51F74776,19.07
+ocr_115_roboflow_long_20px.jpg,dev,roboflow,<30px,threshold,61203,51F-244.03,51F24403,20.17
+ocr_120_roboflow_long_27px.jpg,dev,roboflow,<30px,threshold,61F.065.32,51F-065.32,51F06532,22.1
+ocr_121_roboflow_long_28px.jpg,dev,roboflow,<30px,threshold,BF-5330,BH-53-30,BH5330,18.53
+ocr_122_roboflow_long_27px.jpg,dev,roboflow,<30px,threshold,51F.63034,51F-630.34,51F63034,20.68
+ocr_125_roboflow_long_22px.jpg,dev,roboflow,<30px,threshold,FF-07973,51F-079.73,51F07973,21.68
+ocr_126_roboflow_long_23px.jpg,dev,roboflow,<30px,threshold,64775.29,51A-775.29,51A77529,23.37
+ocr_129_roboflow_long_22px.jpg,dev,roboflow,<30px,threshold,,51F-598.81,51F59881,20.58
+ocr_130_roboflow_long_37px.jpg,dev,roboflow,30-60px,threshold,B1F.795.12,51F-795.12,51F79512,20.8
+ocr_131_roboflow_long_42px.jpg,dev,roboflow,30-60px,threshold,61F-590W,51F-590.11,51F59011,21.92
+ocr_133_roboflow_long_43px.jpg,dev,roboflow,30-60px,threshold,,51F-598.81,51F59881,18.46
+ocr_135_roboflow_long_58px.jpg,dev,roboflow,30-60px,threshold,516.21748,51G-217.48,51G21748,41.15
+ocr_136_roboflow_long_45px.jpg,dev,roboflow,30-60px,threshold,61A72170,51A-721.10,51A72110,20.74
+ocr_137_roboflow_long_45px.jpg,dev,roboflow,30-60px,threshold,51651008,51G-510.08,51G51008,18.81
+ocr_139_roboflow_long_31px.jpg,dev,roboflow,30-60px,threshold,B2F.32L.88,51F-324.88,51F32488,20.11
+ocr_140_roboflow_long_34px.jpg,dev,roboflow,30-60px,threshold,616.31691,51G-316.91,51G31691,20.34
+ocr_141_roboflow_long_56px.jpg,dev,roboflow,30-60px,threshold,51F.795121,51F-795.12,51F79512,22.4
+ocr_145_roboflow_long_47px.jpg,dev,roboflow,30-60px,threshold,,51F-598.81,51F59881,18.19
+ocr_146_roboflow_long_42px.jpg,dev,roboflow,30-60px,threshold,614.395.34,61A-395.34,61A39534,18.73
+ocr_148_roboflow_long_41px.jpg,dev,roboflow,30-60px,threshold,E1F.882.70,51F-882.70,51F88270,28.3
+ocr_149_roboflow_long_42px.jpg,dev,roboflow,30-60px,threshold,,30E-000.90,30E00090,18.95
+ocr_150_roboflow_long_61px.jpg,dev,roboflow,>60px,threshold,,61A-395.34,61A39534,17.34
